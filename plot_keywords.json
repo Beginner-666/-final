@@ -1,0 +1,619 @@
+{
+    "甄士隐": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "贾雨村": {
+        "aliases": ["雨村"],
+        "category": "人物"
+    },
+    "英莲": {
+        "aliases": ["香菱"],
+        "category": "人物"
+    },
+    "林黛玉": {
+        "aliases": ["颦颦", "颦儿", "林姑娘", "林妹妹", "潇湘妃子", "黛玉"],
+        "category": "人物"
+    },
+    "贾宝玉": {
+        "aliases": ["宝二爷", "宝兄弟", "怡红公子", "绛洞花主", "二哥哥", "天魔星", "宝玉"],
+        "category": "人物"
+    },
+    "初见": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "薛蟠": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "冯渊": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "梨香院": {
+        "aliases": [],
+        "category": "地点"
+    },
+    "太虚幻境": {
+        "aliases": [],
+        "category": "地点"
+    },
+    "金陵十二钗": {
+        "aliases": [],
+        "category": "其它"
+    },
+    "刘姥姥": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "荣国府": {
+        "aliases": [],
+        "category": "地点"
+    },
+    "王熙凤": {
+        "aliases": ["凤姐", "琏二奶奶", "凤辣子", "凤哥儿", "凤丫头", "凤姐儿", "熙凤"],
+        "category": "人物"
+    },
+    "周瑞家": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "秦钟": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "薛宝钗": {
+        "aliases": ["蘅芜君", "宝姐姐", "宝丫头", "宝姑娘", "宝钗", "宝钗笑", "宝钗道"],
+        "category": "人物"
+    },
+    "学堂": {
+        "aliases": [],
+        "category": "地点"
+    },
+    "秦可卿": {
+        "aliases": ["秦氏", "可儿", "可卿", "秦氏笑"],
+        "category": "人物"
+    },
+    "金寡妇": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "儿子": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "贾瑞": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "相思局": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "宁国府": {
+        "aliases": [],
+        "category": "地点"
+    },
+    "林如海": {
+        "aliases": ["如海", "如海笑"],
+        "category": "人物"
+    },
+    "北静王": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "铁槛寺": {
+        "aliases": [],
+        "category": "地点"
+    },
+    "智能儿": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "贾元春": {
+        "aliases": ["贵妃", "元妃", "元春"],
+        "category": "人物"
+    },
+    "功名": {
+        "aliases": [],
+        "category": "其它"
+    },
+    "贾政": {
+        "aliases": ["贾政道", "贾政笑"],
+        "category": "人物"
+    },
+    "元春省亲": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "袭人": {
+        "aliases": ["袭人道"],
+        "category": "人物"
+    },
+    "西厢记": {
+        "aliases": [],
+        "category": "物品"
+    },
+    "贾琏": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "多姑娘": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "宝黛": {
+        "aliases": [],
+        "category": "其它"
+    },
+    "灯谜谶语": {
+        "aliases": [],
+        "category": "其它"
+    },
+    "牡丹亭": {
+        "aliases": [],
+        "category": "物品"
+    },
+    "贾芸": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "小红": {
+        "aliases": ["红玉", "小红道", "红玉道", "红玉笑"],
+        "category": "人物"
+    },
+    "马道婆": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "和尚道士": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "葬花": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "蒋玉菡": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "葬花吟": {
+        "aliases": [],
+        "category": "物品"
+    },
+    "冯紫英": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "茜香罗": {
+        "aliases": [],
+        "category": "物品"
+    },
+    "红麝串": {
+        "aliases": [],
+        "category": "物品"
+    },
+    "贾母": {
+        "aliases": ["史太君", "老祖宗", "老太太", "贾母笑"],
+        "category": "人物"
+    },
+    "清虚观": {
+        "aliases": [],
+        "category": "地点"
+    },
+    "张道士": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "提亲": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "龄官": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "划蔷": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "晴雯": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "撕扇": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "史湘云": {
+        "aliases": ["湘云"],
+        "category": "人物"
+    },
+    "金麒麟": {
+        "aliases": [],
+        "category": "物品"
+    },
+    "肺腑": {
+        "aliases": [],
+        "category": "其它"
+    },
+    "金钏儿": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "投井自尽": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "琪官": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "毒打": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "送药": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "探伤": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "旧帕": {
+        "aliases": [],
+        "category": "物品"
+    },
+    "打络子": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "玉钏儿": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "莲叶羹": {
+        "aliases": [],
+        "category": "物品"
+    },
+    "绣鸳鸯": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "梦兆": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "情悟": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "贾探春": {
+        "aliases": ["三妹妹", "探春"],
+        "category": "人物"
+    },
+    "海棠诗社": {
+        "aliases": ["诗社"],
+        "category": "事件"
+    },
+    "菊花题": {
+        "aliases": [],
+        "category": "物品"
+    },
+    "菊花诗": {
+        "aliases": [],
+        "category": "物品"
+    },
+    "螃蟹咏": {
+        "aliases": [],
+        "category": "物品"
+    },
+    "故事": {
+        "aliases": [],
+        "category": "其它"
+    },
+    "大观园": {
+        "aliases": ["省亲别墅"],
+        "category": "地点"
+    },
+    "醉卧": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "怡红院": {
+        "aliases": [],
+        "category": "地点"
+    },
+    "妙玉": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "奉茶": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "茄鲞": {
+        "aliases": [],
+        "category": "物品"
+    },
+    "杂书": {
+        "aliases": [],
+        "category": "物品"
+    },
+    "贾惜春": {
+        "aliases": ["四妹妹", "惜春"],
+        "category": "人物"
+    },
+    "画大观园": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "凑份子": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "庆生": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "私祭": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "泼醋": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "大闹": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "平儿": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "理妆": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "金兰契": {
+        "aliases": [],
+        "category": "其它"
+    },
+    "秋窗风雨夕": {
+        "aliases": [],
+        "category": "物品"
+    },
+    "贾赦": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "鸳鸯": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "剪发": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "柳湘莲": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "痛打": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "南下": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "香菱": {
+        "aliases": ["英莲"],
+        "category": "人物"
+    },
+    "学诗": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "偷娶": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "尤二姐": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "芦雪庵": {
+        "aliases": [],
+        "category": "地点"
+    },
+    "联诗": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "赏雪": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "薛宝琴": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "乞梅": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "说媒": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "怀古诗谜": {
+        "aliases": [],
+        "category": "物品"
+    },
+    "病重": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "拒医": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "病补": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "雀金裘": {
+        "aliases": [],
+        "category": "物品"
+    },
+    "智掩": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "虾须镯": {
+        "aliases": [],
+        "category": "物品"
+    },
+    "除夕": {
+        "aliases": [],
+        "category": "其它"
+    },
+    "祭宗祠": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "元宵": {
+        "aliases": [],
+        "category": "其它"
+    },
+    "开夜宴": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "讲笑话": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "破陈腐": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "效戏彩斑衣": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "理家": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "改革弊端": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "赵姨娘": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "争闲气": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "遭辱": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "兴利除宿弊": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "甄宝玉": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "紫鹃": {
+        "aliases": ["鹦哥"],
+        "category": "人物"
+    },
+    "藕官": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "药官": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "芳官": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "莺儿": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "春燕": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "解救": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "茉莉粉": {
+        "aliases": [],
+        "category": "物品"
+    },
+    "玫瑰露": {
+        "aliases": [],
+        "category": "物品"
+    },
+    "彩云": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "芍药裀": {
+        "aliases": [],
+        "category": "地点"
+    },
+    "石榴裙": {
+        "aliases": [],
+        "category": "物品"
+    },
+    "贾敬": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "吞丹": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "五美吟": {
+        "aliases": [],
+        "category": "物品"
+    },
+    "尤三姐": {
+        "aliases": [],
+        "category": "人物"
+    },
+    "自刎": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "出家为道": {
+        "aliases": [],
+        "category": "事件"
+    },
+    "土仪": {
+        "aliases": [],
+        "category": "物品"
+    },
+    "讯家童": {
+        "aliases": [],
+        "category": "事件"
+    }
+    
+}    
